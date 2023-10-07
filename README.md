@@ -1,9 +1,7 @@
 QR Code Generator 
 
-Description
 The web application allows users to input text or a URL and generate a QR code for the provided input. The generated QR code is displayed on the page for the user to save or use as needed.
 
-Features
 Input field for entering text or URLs.
 Generate QR code button to create the QR code.
 Error handling: Highlights the input field with an error class if no input is provided and includes a shake animation.
